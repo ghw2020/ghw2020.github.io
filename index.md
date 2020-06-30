@@ -11,3 +11,5 @@ Agatha Raisin is a marketing expert from London that moved to the countryside. H
 She often says:
 
 > Something is strange in this case, may I have a drink.
+
+<img src="https://de.wikipedia.org/wiki/Ashley_Jensen#/media/Datei:Ashley_Jensen.jpg"
