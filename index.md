@@ -8,3 +8,6 @@ Agatha Raisin is a marketing expert from London that moved to the countryside. H
 * Likes to meet friends
 * Often acts before thinking
 
+She often says:
+
+> Something is strange in this case, may I have a drink.
